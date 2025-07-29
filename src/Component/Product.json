@@ -1,0 +1,43 @@
+[
+    {
+      "image": {
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdvX-790p16YVWoe4WOxiLul9DlTmBd4VzQ&s",
+        "alt": "Courses"
+      },
+      "title": "600+",
+      "description": "Choose from hundreds of courses across various fields. Perfect for beginners and professionals looking to upskill or explore new topics."
+    },
+    {
+      "image": {
+        "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+        "alt": "Instructors"
+      },
+      "title": "150+",
+      "description": "Learn from experienced instructors who bring real-world insights and are passionate about helping you grow in your career."
+    },
+    {
+      "image": {
+        "src": "https://cdn-icons-png.flaticon.com/512/3105/3105807.png",
+        "alt": "Students"
+      },
+      "title": "25K+",
+      "description": "Join a diverse community of learners who are gaining valuable skills and achieving success in their personal and professional goals."
+    },
+    {
+      "image": {
+        "src": "https://cdn-icons-png.flaticon.com/512/482/482541.png",
+        "alt": "Certificates"
+      },
+      "title": "1,000+",
+      "description": "Earn certificates that showcase your skills. Share them on resumes or LinkedIn to boost your job opportunities and recognition."
+    },
+    {
+      "image": {
+        "src": "https://cdn-icons-png.flaticon.com/512/841/841364.png",
+        "alt": "Webinars"
+      },
+      "title": "300+",
+      "description": "Join live webinars and interact with experts. Stay updated on trends, ask questions, and connect with fellow learners in real-time."
+    }
+  ]
+  

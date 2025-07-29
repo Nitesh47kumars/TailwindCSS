@@ -1,0 +1,26 @@
+[
+    {
+      "image": {
+        "src": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png",
+        "alt": "Community"
+      },
+      "title": "50+",
+      "body": "Community Events"
+    },
+    {
+      "image": {
+        "src": "https://cdn-icons-png.flaticon.com/512/3126/3126552.png",
+        "alt": "Tools"
+      },
+      "title": "100+",
+      "body": "Learning Tools"
+    },
+    {
+      "image": {
+        "src": "https://cdn-icons-png.flaticon.com/512/1256/1256650.png",
+        "alt": "Projects"
+      },
+      "title": "500+",
+      "body": "Student Projects"
+    }
+]
