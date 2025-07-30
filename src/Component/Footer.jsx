@@ -7,7 +7,7 @@ const Footer = () => {
         max-lg:grid-cols-2 max-lg:gap-y-[clamp(2rem,1vw,2rem)]'>
             <div>
                 <h2 className='text-[clamp(0.9rem,2vw,1.5rem)] font-bold'>Get to Know Us</h2>
-                <ul className='text-[clamp(0.7rem,2vw,1rem)] font-semibold text-slate-400 mt-2 flex flex-col gap-1'>
+                <ul className='text-[clamp(0.7rem,1vw,0.8rem)] font-semibold text-slate-400 mt-2 flex flex-col gap-1'>
                     <li><a href="#">Careers</a></li>
                     <li><a href="#">Blog</a></li>
                     <li><a href="#">About Amazon</a></li>
@@ -18,7 +18,7 @@ const Footer = () => {
 
             <div>
                 <h2 className='text-[clamp(0.9rem,2vw,1.5rem)] font-bold'>Make Money with Us</h2>
-                <ul className='text-[clamp(0.7rem,2vw,1rem)] font-semibold text-slate-400 mt-2 flex flex-col gap-1' >
+                <ul className='text-[clamp(0.7rem,1vw,0.8rem)] font-semibold text-slate-400 mt-2 flex flex-col gap-1' >
                     <li><a href="#">Sell on Amazon</a></li>
                     <li><a href="#">Sell under Amazon Accelerator</a></li>
                     <li><a href="#">Protect & Build Your Brand</a></li>
@@ -29,7 +29,7 @@ const Footer = () => {
 
             <div>
                 <h2 className='text-[clamp(0.9rem,2vw,1.5rem)] font-bold'>Amazon Payment Products</h2>
-                <ul className='text-[clamp(0.7rem,2vw,1rem)] font-semibold text-slate-400 mt-2 flex flex-col gap-1' >
+                <ul className='text-[clamp(0.7rem,1vw,0.8rem)] font-semibold text-slate-400 mt-2 flex flex-col gap-1' >
                     <li><a href="#">Amazon Business Card</a></li>
                     <li><a href="#">Shop with Points</a></li>
                     <li><a href="#">Reload Your Balance</a></li>
@@ -39,7 +39,7 @@ const Footer = () => {
 
             <div>
                 <h2 className='text-[clamp(0.9rem,2vw,1.5rem)] font-bold'>Let Us Help You</h2>
-                <ul className='text-[clamp(0.7rem,2vw,1rem)] font-semibold text-slate-400 mt-2 flex flex-col gap-1' >
+                <ul className='text-[clamp(0.7rem,1vw,0.8rem)] font-semibold text-slate-400 mt-2 flex flex-col gap-1' >
                     <li><a href="#">Your Account</a></li>
                     <li><a href="#">Your Orders</a></li>
                     <li><a href="#">Shipping Rates & Policies</a></li>
