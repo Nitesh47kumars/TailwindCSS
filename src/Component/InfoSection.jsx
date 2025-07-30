@@ -7,7 +7,7 @@ const InfoSection = () => {
   return (
     <>
       <div className='h-auto w-full bg-blue-950 flex flex-col items-center'>
-        <div className='flex flex-col items-center mt-5'>
+        <div className='flex flex-col items-center mt-8'>
             <h1 className='text-blue-700 text-2xl px-1 pb-1 font-semibold border-b-4 rounded-lg border-yellow-500 max-sm:text-sm'>Pure Hardwork, No Shortcuts!</h1>
         </div>
 
@@ -17,7 +17,7 @@ const InfoSection = () => {
                 key={idx}
                 className='text-center m-5'>
                 <img
-                className='rounded-full h-60 w-60 object-cover mb-3'
+                className='rounded-full h-40 w-40 object-cover mb-3'
                 src={curr.image.src}
                 alt={curr.image.alt}
                 />
@@ -27,7 +27,7 @@ const InfoSection = () => {
             })}
         </div>
 
-        <div className='flex flex-col items-center mt-5'>
+        <div className='flex flex-col items-center mt-10'>
             <h1 className='text-blue-700 text-2xl px-1 pb-1 font-semibold border-b-4 rounded-lg border-yellow-500 max-sm:text-sm'>Our Products</h1>
         </div>
 
@@ -35,9 +35,9 @@ const InfoSection = () => {
             {Products.map((curr,idx)=>{
                 return <div 
                 key={idx}
-                className='text-center flex flex-col items-center m-5'>
+                className='text-center flex flex-col items-center p-5 m-5 border-2 border-transparent hover:border-amber-400 '>
                 <img
-                className='rounded-full h-50 w-50 object-cover mb-3'
+                className='rounded-full h-40 w-40 object-cover mb-3'
                 src={curr.image.src}
                 alt={curr.image.alt}
                 />
